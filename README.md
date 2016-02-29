@@ -1,5 +1,5 @@
 # Digital lab final project 
-This project use Spartan-3A DSP 1800A Starter Board to develop a game like Pac-Man.
+This project use Spartan-3A DSP 1800A Starter Board using verilog to develop a game like Pac-Man.
 Use VGA connect to screen play games.
 - Pac_Man can only move right-left at the bottom of screen.
 - Preys which are some triangles,squares and circles will fall down from the top of screen.
